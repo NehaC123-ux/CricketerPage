@@ -1,0 +1,101 @@
+.Container{
+    background-color: rgb(200, 240, 240);
+    height: 220vh;
+    width: 100%;
+   
+
+}
+.Crickete{
+    background-color:#fb4e71;
+    padding: 20px; /* Added padding for better spacing */
+    position: relative;
+    color: white;
+    font-size: 30px;
+
+   
+    
+}
+.Crickete img{
+    height: 290px;
+    width: 320px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    
+
+ 
+   
+}
+.middle{
+    background-color: white;
+    width: 198vh;
+    margin: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    /* display: flex;
+    justify-content: end; */
+    display: flex;
+   text-align: center;
+   font-size: 30px;
+ 
+   
+    /* position: relative; */
+    
+}
+.middle img{
+    padding: 0;
+    margin: 0;
+    height: 290px;
+    width: 300px;
+}
+.middle p{
+    padding: 20px;
+    margin-top: 20vh;
+    font-size: 30px;
+
+}
+.card-video{
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px lightcyan;
+}
+.card-video img{
+    width: 300px;
+    height: 250px;
+    border: 1px solid lightcyan;
+    border-radius: 20px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 40px;
+    padding-left: 56px;
+    font-size: 30px;
+   
+
+}
+.View-Page{
+    border: 1px solid rgb(233, 239, 240);
+    border-radius: 5px;
+    background-color: #5de5f7;
+    width: 100px;
+    height: 50px;
+    font-size: 14px;
+    color: white;
+  
+
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 25vh;
+}
+
+
+
+
+
+
